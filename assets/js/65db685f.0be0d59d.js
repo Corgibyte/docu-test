@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpy_web_io_blog=self.webpackChunkpy_web_io_blog||[]).push([[4433],{3063:function(o){o.exports=JSON.parse('{"permalink":"/PyWebIO-Docusaurus/docs/blog/tags/py-web-io","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
