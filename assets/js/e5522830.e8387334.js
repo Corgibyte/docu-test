@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpy_web_io_blog=self.webpackChunkpy_web_io_blog||[]).push([[5475],{6227:function(o){o.exports=JSON.parse('{"allTagsPath":"/docu-test/docs/blog/tags","name":"cloud","count":1,"permalink":"/docu-test/docs/blog/tags/cloud"}')}}]);
